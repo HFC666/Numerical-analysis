@@ -6,13 +6,3 @@
 
 [GitHub](https://github.com/HFC666/Numerical-analysis.git) [Get Started](#数值分析) [blog](https://hfcouc.work/)
 
-
-
-
-
-
-
-
-
-
-
